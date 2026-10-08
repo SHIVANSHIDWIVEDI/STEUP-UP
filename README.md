@@ -1,4 +1,4 @@
-# STEUP-UP
+# STEUP
 
 
 A React + Vite storefront for student-focused sneakers and everyday college footwear.
